@@ -1,0 +1,48 @@
+.text_h1{
+    text-align: center;
+}
+.create-list{
+	width: 400px;
+	height: 518px;
+	background: #fff;
+	display: block;
+	margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto 
+}
+.c_head{
+	margin-left: 125px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.panel_editor{
+	width: 470px;
+	height: 25px;
+	background: #fff;
+	display: block;
+	margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto 
+}
+.panel_editor input{
+	
+	height: 21px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+.label_panel{
+	float: right;
+}
+.textarea_inp {
+	margin-left: 25px; 
+	margin-top: 15px;
+	margin-bottom: 7px;
+	resize: none;
+	overflow: hidden;
+	min-width: 350px;
+	max-width: 350px;
+	min-height: 250px;
+	max-height: 400px;
+}
+.buttonHolder{ text-align: center; }
